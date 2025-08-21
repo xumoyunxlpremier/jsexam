@@ -5,7 +5,6 @@ const students4 = require("./4-task.cjs");
 
 
 //5-MASALA
-
 // 4 ta masala uchun sharh yozasiz.
 //  Har bir qator kod uchun izoh yozasiz.
 //  Bu narsa kodni siz yozganizi bilish uchun muhim.
